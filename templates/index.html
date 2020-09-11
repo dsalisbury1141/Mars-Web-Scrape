@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Mars Scrape Data</title>
+  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="jumbotron text-center">
+      <h1>Mars Scrape Data</h1>
+      <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Click to collect the Latests Mars Data</a></p>
+    </div>
+    <!-- Mars Scrap Data -->
+      
+    
+  </div>
+</nav>
+
+<div class="container-fluid">
+        <div class = "row">
+          <br>
+          <br>
+            <div class = "col-8">
+            <h2 style="color:grey">Featured Mars News:</h2>
+            <h3 style="font-size:32px;"><br>{{mars.news_date}}</h3>
+            <h3 style="font-size:32px;"><br>{{mars.news_title}}</h3>
+            <h3 style="font-size:32px;"><br>{{mars.news_p}}</h3>
+            <br>
+            <br>
+            <h2 style="color:grey">Mars Featured Image:</h2>
+            <br>
+            <br>
+            <img src="{{mars.featured_image_url}}" alt="feature_image_url">
+            </div>
+            <div class = "col-4">
+            <h2 style="color:grey">Mars Fact Table:</h2>
+            <h3 style="font-size:18px;"><br>{{mars.mars_facts|safe}}</h3>
+            <br>
+            <br>
+            <table border="1" class="dataframe marsTable_to_html"><br>
+            <h4 style="color:grey">Mars Hemiphere</h2>
+            <br>
+            <div            
+            
+            style="font-size:18px;"><br>{{mars.hem_img|safe}}
+            <img src="{{mars.hem_img|safe}}" alt="img_url">
+            {{mars.hem_img|safe}}
+            </table>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<body>
+    
+</body>
+</html>
