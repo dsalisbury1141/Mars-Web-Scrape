@@ -1,8 +1,7 @@
 ## 12-Web-Scraping-Challenge (regrade)
 
 ## Dawn Salisbury
-
-
+<img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/sky.jpg" width="200">
 ## Welcome to Mars Scrape Data
 
 Please consider this a regrade I have rewored and completed the assignment the outcome was extreemly challenging but worth wild.
@@ -14,7 +13,6 @@ Did you know NASA's next Mars rover has a nearly identical sibling on Earth for 
 
 ## Todays Featured Image: 
 This images changes every few minutes this is a snapshot in time. 
-<img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/cerberus_enhanced.tif" width="200">
 
 ## Mars Facts
 <img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/cerberus_enhanced.tif" width="200">
