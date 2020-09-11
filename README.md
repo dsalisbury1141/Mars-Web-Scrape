@@ -24,6 +24,7 @@ These are a series of photos of Mars
 Mosaic of the Cerberus hemisphere of Mars projected into point perspective, a view similar to that which one would see from a spacecraft. This mosaic is composed of 104 Viking Orbiter images acquired on February 11, 1980. At that time, it was early northern summer on Mars. The center of the image is at latitude 3 degrees, longitude 185 degrees.
 <img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/cerberus_enhanced.jpg" width="200">
 
+## Welcome to Mars Scrape Data
 
 ### Schiaparelli Hemisphere Enhanced
 Mosaic of the Schiaparelli hemisphere of Mars projected into point perspective, a view similar to that which one would see from a spacecraft. The images were acquired in 1980 during early northern summer on Mars. The center of this image is near the impact crater Schiaparelli (latitude -3, longitude 343) The limits of this mosaic are approximately latitude -60 to 60 and longitude 260 to 30. The color variations have been enhanced by a factor of two, and the large-scale brightness normalized by large-scale filtering.
