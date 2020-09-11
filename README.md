@@ -14,7 +14,7 @@ Did you know NASA's next Mars rover has a nearly identical sibling on Earth for 
 
 ## Todays Featured Image: 
 This images changes every few minutes this is a snapshot in time. 
-<img src="https://www.jpl.nasa.gov/spaceimages/images/mediumsize/PIA16715_ip.jpg" width="200">
+<img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/cerberus_enhanced.tif" width="200">
 
 ## Mars Facts
 <img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/cerberus_enhanced.tif" width="200">
