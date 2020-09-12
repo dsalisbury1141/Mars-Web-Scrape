@@ -19,8 +19,7 @@ Did you know NASA's next Mars rover has a nearly identical sibling on Earth for 
 
 <img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/mars_facts.PNG" width="500">
 
-## Mars Hemiphere
-These are a series of photos of Mars 
+## Mars Hemiphere 
 
 ### Mosaic,Cerberus hemisphere
 Mosaic of the Cerberus hemisphere of Mars projected into point perspective, a view similar to that which one would see from a spacecraft. This mosaic is composed of 104 Viking Orbiter images acquired on February 11, 1980. At that time, it was early northern summer on Mars. The center of the image is at latitude 3 degrees, longitude 185 degrees.
