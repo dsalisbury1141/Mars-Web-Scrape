@@ -1,7 +1,7 @@
 ## 12-Web-Scraping-Challenge (regrade)
 
 ## Dawn Salisbury
-<img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/earth-mars.jpg" width="400">
+<img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/earth-mars.jpg" width="800">
 
 ## Welcome to Mars Scrape Data
 
