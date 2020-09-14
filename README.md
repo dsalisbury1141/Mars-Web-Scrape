@@ -4,7 +4,7 @@
 
 ## Welcome to Mars Scrape Data
 
-Please use the Missions-to-Mars folder for the regrading and NOT the one marked "OLD"
+## NOTE:  Please use the Missions-to-Mars folder for the regrading and NOT the one marked "OLD"
 
 Please consider this a regrade I have reworked and completed the assignment the outcome was extreemly challenging but worth wild.
 As of my resubmission the scrape data collects the following, on the day you grade we might see more current. 
