@@ -1,11 +1,6 @@
 
 ## Welcome to Mars Scrape Data
 
-## NOTE:  Please use the Missions-to-Mars folder for the regrading and NOT the one marked "OLD"
-
-Please consider this a regrade I have reworked and completed the assignment the outcome was extreemly challenging but worth wild.
-As of my resubmission the scrape data collects the following, on the day you grade we might see more current. 
-
 <img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/earth-mars.jpg" width="800">
 
 ## Featured Mars News: 
