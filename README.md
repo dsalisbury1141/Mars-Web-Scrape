@@ -1,6 +1,3 @@
-## 12-Web-Scraping-Challenge (regrade)
-
-## Dawn Salisbury
 
 ## Welcome to Mars Scrape Data
 
