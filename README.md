@@ -8,7 +8,7 @@ September 4, 2020
 Did you know NASA's next Mars rover has a nearly identical sibling on Earth for testing? Even better, it's about to roll for the first time through a replica Martian landscape.
 
 ## Todays Featured Image this image changes every few minutes this is a snapshot in time. 
-<img src="https://github.com/dsalisbury1141/Web-Scraping-Challenge/blob/master/Missions_to_Mars/Images/todays.jpg" width="200">
+<img src="https://github.com/dsalisbury1141/Mars-Web-Scrape/blob/master/Images/todays.jpg" width="200">
 
 ## Mars Facts
 
