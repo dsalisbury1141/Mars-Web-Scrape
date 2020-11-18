@@ -35,3 +35,8 @@ Mosaic of the Syrtis Major hemisphere of Mars projected into point perspective, 
 Mosaic of the Valles Marineris hemisphere of Mars projected into point perspective, a view similar to that which one would see from a spacecraft. The distance is 2500 kilometers from the surface of the planet, with the scale being .6km/pixel. The mosaic is composed of 102 Viking Orbiter images of Mars. The center of the scene (lat -8, long 78) shows the entire Valles Marineris canyon system, over 2000 kilometers long and up to 8 kilometers deep, extending form Noctis Labyrinthus, the arcuate system of graben to the west, to the chaotic terrain to the east. Many huge ancient river channels begin from the chaotic terrain from north-central canyons and run north. The three Tharsis volcanoes (dark red spots), each about 25 kilometers high, are visible to the west. South of Valles Marineris is very ancient terrain covered by many impact craters.
 
 <img src="https://github.com/dsalisbury1141/Mars-Web-Scrape/blob/master/Images/4valles_marineris_enhanced.jpg" width="200">
+
+
+How to run my code:
+1. Download my repository and run "python app.py" on local host
+2. Also you can review post work and code in Jupyter lab 
