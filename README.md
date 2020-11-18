@@ -1,5 +1,5 @@
 
-## Welcome to Mars Scrape Data
+## Welcome to Mars Scrape Data (Mongo DB with Flask App)
 
 <img src="https://github.com/dsalisbury1141/Mars-Web-Scrape/blob/master/Images/earth-mars.jpg" width="800">
 
@@ -39,4 +39,4 @@ Mosaic of the Valles Marineris hemisphere of Mars projected into point perspecti
 
 How to run my code:
 1. Download my repository and run "python app.py" on local host
-2. Also you can review post work and code in Jupyter lab 
+2. Also you can review post work and code in Jupyter lab, also MongoBD ( The environment must be set up and opened in the right order to initiate MongoDB)
